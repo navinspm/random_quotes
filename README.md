@@ -29,10 +29,10 @@ And that's it!
 create file
  
  ```config/initializers/random_quotes.rb```
+ 
+ and add your quotes
 
-and add your quotes
-
-    ```RandomQuotes.configure.quotes = "my quote 1 ,my quote 2,my quote 3"```
+    RandomQuotes.configure.quotes = "my quote 1 ,my quote 2,my quote 3"
 
 Now 
     ```<%= sample_quotes %>``` - will display quotes in gem
