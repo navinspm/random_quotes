@@ -23,7 +23,9 @@ In your view pages simply call
 And that's it!
 
 ## Configuration
+
     I have added more than 250 quotes with this gem, If you want to add your own quotes 
+
 create file
  
  ```config/initializers/random_quotes.rb```
