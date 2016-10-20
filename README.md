@@ -28,7 +28,7 @@ And that's it!
 
 create file
  
- ```config/initializers/random_quotes.rb```
+   config/initializers/random_quotes.rb
  
  and add your quotes
 
