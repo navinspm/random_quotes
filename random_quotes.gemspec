@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["NavinKumar"]
   spec.email         = ["navinspm@gmail.com"]
 
-  spec.summary       =  "A gem to generate random quotes and show them on your web page"
-  spec.description   =  "This gem will generate random quotes , and show them on your web page. You can add your quotes also here"
+  spec.summary       =  "A gem to display random quotes and show them on your web page"
+  spec.description   =  "This gem will display random quotes , and show them on your view pages. You can also add your quotes, random_quotes wll display them"
   spec.homepage      =  "TODO: Put your gem's website or public repo URL here."
   spec.license       =  "MIT"
 
